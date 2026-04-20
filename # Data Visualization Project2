@@ -1,0 +1,29 @@
+# Data Visualization Project
+
+## Objective
+Analyze dataset and extract meaningful insights using visualizations.
+
+## Tools Used
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Process
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+## Key Visualizations
+![Distribution](images/rating_distribution.png)
+![Category](images/category_analysis.png)
+
+## Key Insights
+- Majority of data points fall in higher range
+- Certain categories dominate the dataset
+- Trends show variation over time
+
+## Conclusion
+Visualization helps in identifying patterns, trends, and anomalies which support better decision-making.
+
+## Author
+Maneesh Gangwar
